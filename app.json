@@ -4,26 +4,7 @@
     "slug": "pray-time",
     "version": "0.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
-      },
-      "permissions": []
-    },
-    "extra": {
-      "eas": {
-        "projectId": "pray-time-initial"
-      }
-    }
+    "ios": { "supportsTablet": true },
+    "android": { "permissions": [] }
   }
 }
