@@ -1,0 +1,19 @@
+{
+  "name": "pray-time",
+  "version": "0.0.1",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "^52.0.0",
+    "expo-notifications": "~0.28.0",
+    "expo-localization": "~16.0.0",
+    "i18n-js": "^4.4.3",
+    "react": "18.3.1",
+    "react-native": "0.76.0"
+  }
+}
